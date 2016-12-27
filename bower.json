@@ -1,0 +1,26 @@
+{
+  "name": "wwwroot",
+  "homepage": "https://github.com/lopezpagan/demo-frontend",
+  "authors": [
+    "Tony López <tony@lopezpagan.com>"
+  ],
+  "description": "Front End Project",
+  "main": "index.html",
+  "keywords": [
+    "front-end development"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-easing": "*",
+    "bootstrap": "v3.3.5",
+    "retinajs": "^2.1.0"
+  }
+}
